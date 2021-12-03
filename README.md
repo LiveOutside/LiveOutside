@@ -1,4 +1,4 @@
-### That's my profile btw 👋
+### That's my profile btw ↓
 
 
 - ⚫ I’m currently working on ... Pygame Project

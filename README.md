@@ -6,4 +6,4 @@
 - ⚫ Ask me about ... Anything
 - ⚪ How to reach me: ... [VK](https://vk.com/lookaaatmeeee)
 - ⚫ Pronouns: ... He/Him
-- ⚪ Fun fact: ... I'm Sus
+- ⚪ Fun fact: ... The first person convicted of speeding was going eight mph.

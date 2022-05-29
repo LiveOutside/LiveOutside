@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/cX92mi1p-NYAAAAS/coding-anime.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/holy#1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="holy#1010" height="30" width="40" /></a>

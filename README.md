@@ -1,9 +1,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=LiveOutside&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=LiveOutside&theme=tokyonight&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiveOutside&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-<img style="padding-right: 20px" width="300" height="300" src="https://i.pinimg.com/564x/34/b4/e3/34b4e30cbfcfbb48f464c03e9fa42efc.jpg" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=LiveOutside&theme=tokyonight&hide_border=true)
+<img width="200" height="200" src="https://i.pinimg.com/564x/34/b4/e3/34b4e30cbfcfbb48f464c03e9fa42efc.jpg" />
 
 
 

@@ -1,5 +1,3 @@
-
-![](https://github-readme-stats.vercel.app/api?username=LiveOutside&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiveOutside&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LiveOutside&theme=tokyonight&hide_border=true)
 <img width="200" height="200" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" />

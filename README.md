@@ -2,4 +2,4 @@
 <img width="200" height="200" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LiveOutside&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiveOutside)](https://github.com/anuraghazra/github-readme-stats)
